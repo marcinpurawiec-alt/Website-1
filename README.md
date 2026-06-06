@@ -1,0 +1,1 @@
+Luxury Villas Pro starter project for Next.js.
